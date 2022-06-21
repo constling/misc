@@ -8,7 +8,7 @@
     <artifactId>jdbcdemo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <mysql.version>8.0.17</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <spring.version>4.3.9.RELEASE</spring.version>
     </properties>
     <dependencies>
